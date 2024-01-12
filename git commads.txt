@@ -19,3 +19,8 @@ git add .
 git commit -m "label"
 git push
 gjp-jsru-tqi
+
+
+git branch name
+git status
+git checkcout branch name
