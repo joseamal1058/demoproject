@@ -1,3 +1,21 @@
-A healthy diet is essential for good health and nutrition.
- It protects you against many chronic noncommunicable diseases, such as heart disease, diabetes and cancer.
- Eating a variety of foods and consuming less salt, sugars and saturated and industrially-produced trans-fats, are essential for healthy diet.
+git config --global user.name "username"
+git config --global user.email "emailid"
+
+
+
+git push commands
+------------------
+
+
+git init
+git git add .
+git remote add origin "url"
+git commit -m "commit label"
+git push -u origin master
+
+SECOND PUSH
+
+git add .
+git commit -m "label"
+git push
+gjp-jsru-tqi
